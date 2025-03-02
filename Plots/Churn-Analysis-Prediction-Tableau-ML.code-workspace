@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../GitHub/Churn-Analysis-Prediction-Tableau-ML"
+		},
+		{
+			"path": "../Churn Analysis"
+		},
+		{
+			"path": "../Churn Prediction Analysis"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
