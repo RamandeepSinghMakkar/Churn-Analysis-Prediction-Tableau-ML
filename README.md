@@ -117,12 +117,28 @@ Provide actionable insights for customer retention strategies.
 
 
 
-# Exploratory Data Analysis (EDA) :--
+# Exploratory Data Analysis for Predicted Data(EDA) :--
 
 Tableau Prediction Analysis
 
-After Using the LightGBM Model Evaluation, I did further analysis for the predicted data by the model in Tableau. we stored our model result data in predicted data.
+After Using the Logistic Regression Model, further analysis for the predicted data is done by the model in Tableau.
 
 1. Probability Distribution:
 
 The overlapping histogram with more data towards the edges indicates the probabilities predicted gave us definative results.
+
+![Churn Rate by Group](https://github.com/RamandeepSinghMakkar/Churn-Analysis-Prediction-Tableau-ML/blob/main/Plots/Churn%20Rate%20by%20Group%20of%20Custome.png)
+
+
+
+2. High-Risk Segments:
+
+High-risk segments such as customer service calls and international plan from different states effects the median prediction probabilities of churn.
+
+![High-Risk Segments](https://github.com/RamandeepSinghMakkar/Churn-Analysis-Prediction-Tableau-ML/blob/main/Plots/High-Risk%20Segments.png)
+
+3. Actual and predicted Churn:
+
+Analyzed actual and predicted churn which has less values in the middle indicating good modelling.
+
+
