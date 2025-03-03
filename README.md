@@ -4,27 +4,14 @@ This project was created by   **Ramandeep Singh Makkar** [<img align="center" sr
 
 
 ## Table of Contents
-## Overview
+
 - [Overview](#overview)
-
-## Objectives
 - [Objectives](#objectives)
-## Tools and Technologies Used
 - [Tools and Technologies Used](#tools-and-technologies-used)
-
-## Skills Demonstrated
 - [Skills Demonstrated](#skills-demonstrated)
-
-## Exploratory Data Analysis
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-
-## Churn Prediction
 - [Churn Prediction](#churn-prediction)
-
-## Exploratory Data Analysis for Predicted Data
 - [Exploratory Data Analysis for Predicted Data](#exploratory-data-analysis-for-predicted-data)
-
-## Business Insights & Recommendation
 - [Business Insights & Recommendation](#business-insights--recommendation)
 
 
