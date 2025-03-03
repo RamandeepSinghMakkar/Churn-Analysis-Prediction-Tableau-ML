@@ -1,5 +1,5 @@
 # Churn-Analysis-Prediction-Tableau-ML
-
+This project was created by   **Ramandeep Singh Makkar** [<img align="center" src= "https://github.com/CLorant/readme-social-icons/blob/main/large/filled/linkedin.svg" alt="LinkedIn" height="15" width="20" />](https://www.linkedin.com/in/ramandeep-singh-makkar) [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="15" width="20" />](mailto:ramandeepsinghmakkar199@gmail.com)
 
 
 
@@ -60,3 +60,16 @@ Dataset :
 
 This dataset, provided by Databel Telecom, is available for download on Kaggle[https://www.kaggle.com/datasets/yichienchong/databel-telecom-customer-churn-dataset]
 The Databel dataset consists of 29 columns and 6687 records.
+
+
+Churn Reason :
+
+Top 5 reasons of churn customer in Databel :
+
+Competitor made better offer (26.79%)
+Competitor had better devices (26.26%)
+Attitude of support person (17.95%)
+Don't know (10.88%)
+Competitor offered more data (9.73%)
+
+![Churn Reason](https://github.com/RamandeepSinghMakkar/Churn-Analysis-Prediction-Tableau-ML/raw/main/Plots/Churn%20Reason.png)
