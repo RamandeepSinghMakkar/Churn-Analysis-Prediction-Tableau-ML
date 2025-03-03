@@ -12,11 +12,7 @@ This project was created by   **Ramandeep Singh Makkar** [<img align="center" sr
 - [Exploratory Data Analysis](#ExploratoryDataAnalysis)
 - [Churn Prediction](#ChurnPrediction)
 - [Exploratory Data Analysis for Predicted data](#ExploratoryDataAnalysisforPredicteddata)
-- [Code Overview](#code-overview)
-- [Including Images](#including-images)
-- [Project Structure](#project-structure)
-- [Authors](#authors)
-- [License](#license)
+- [Business Insights & Recommendation :](#business_insights)
 
 
 
@@ -168,6 +164,6 @@ Analyzed actual and predicted churn which has less values in the middle indicati
    - **Targeted Retention Strategies:**
       > Use the model's predictions to identify high-risk customers and implement targeted retention campaigns, such as personalized offers or discounts for heavy day-time users.
 
-The project successfully identified key drivers of customer churn and built a predictive model with strong performance metrics using LightGBM Model. The insights derived from the data and the model can be leveraged to implement effective churn reduction strategies, potentially leading to significant cost savings and improved customer satisfaction created using Tableau Public.
+The project successfully identified key drivers of customer churn and built a predictive model with strong performance metrics using Logistic Regression Model. The insights derived from the data and the model can be leveraged to implement effective churn reduction strategies, potentially leading to significant cost savings and improved customer satisfaction created using Tableau Public.
 
 
