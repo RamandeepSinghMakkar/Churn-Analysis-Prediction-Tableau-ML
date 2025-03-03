@@ -1,4 +1,4 @@
-# Churn-Analysis-Prediction-Tableau-ML
+# Churn-Analysis-Prediction | Tableau, Logistic Regression, KNN, Random Forest
 This project was created by   **Ramandeep Singh Makkar** [<img align="center" src= "https://github.com/CLorant/readme-social-icons/blob/main/large/filled/linkedin.svg" alt="LinkedIn" height="15" width="20" />](https://www.linkedin.com/in/ramandeep-singh-makkar) [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="15" width="20" />](mailto:ramandeepsinghmakkar199@gmail.com)
 
 
@@ -35,9 +35,13 @@ Segment Customer Profiles: Classify customers according to their churn risk to u
 ## Tools and Technologies Used
 
 Tableau: Data visualization, dashboards, and churn analysis.
+
 Python (Jupyter Notebook): Data preprocessing and modeling.
-Logistic Regression, Random Forest& KNN: Machine learning models for churn prediction.
+
+Logistic Regression, Random Forest & KNN: Machine learning models for churn prediction.
+
 Pandas & NumPy: Data manipulation and processing.
+
 Git and GitHub: For Version Control.
 
 
@@ -45,11 +49,17 @@ Git and GitHub: For Version Control.
 # Skills Demonstrated
 
 Data Visualization – Tableau dashboards for churn insights.
+
 Exploratory Data Analysis (EDA) – Identifying key churn drivers.
+
 Machine Learning – Implementing a churn prediction model(Logistic Regression, Random Forest, KNN).
+
 Feature Engineering – Selecting key variables for ML.
+
 Model Evaluation – Analyzing model accuracy & performance.
+
 Data Cleaning - Handled missing values and ensured consistency in data types across all attributes.
+
 Business Understanding – Applying data insights for decision-making.
 
 
@@ -70,9 +80,13 @@ Almost half of all customer churning are related to the competitor category (44.
 Top 5 reasons of churn customer in Databel :
 
 Competitor made better offer (26.79%)
+
 Competitor had better devices (26.26%)
+
 Attitude of support person (17.95%)
+
 Don't know (10.88%)
+
 Competitor offered more data (9.73%)
 
 ![Churn Reason](https://github.com/RamandeepSinghMakkar/Churn-Analysis-Prediction-Tableau-ML/raw/main/Plots/Churn%20Reason.png)
