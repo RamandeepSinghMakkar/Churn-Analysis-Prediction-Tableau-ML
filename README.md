@@ -28,6 +28,7 @@ Customer churn is a critical issue for businesses, and analyzing churn patterns 
 ## Objectives
 
 Identify Key Drivers Behind Customer Churn: Analyze customer data to pinpoint the primary factors contributing to churn.
+
 Segment Customer Profiles: Classify customers according to their churn risk to understand which segments are most likely to leave the service.
 
 
