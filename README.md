@@ -127,8 +127,7 @@ After Using the Logistic Regression Model, further analysis for the predicted da
 
 The overlapping histogram with more data towards the edges indicates the probabilities predicted gave us definative results.
 
-![Churn Rate by Group](https://github.com/RamandeepSinghMakkar/Churn-Analysis-Prediction-Tableau-ML/blob/main/Plots/Churn%20Rate%20by%20Group%20of%20Custome.png)
-
+![Churn Rate by Group](https://github.com/RamandeepSinghMakkar/Churn-Analysis-Prediction-Tableau-ML/blob/main/Plots/Probability%20Distribution.png)
 
 
 2. High-Risk Segments:
@@ -140,5 +139,35 @@ High-risk segments such as customer service calls and international plan from di
 3. Actual and predicted Churn:
 
 Analyzed actual and predicted churn which has less values in the middle indicating good modelling.
+
+![Actual and predicted Churn](https://github.com/RamandeepSinghMakkar/Churn-Analysis-Prediction-Tableau-ML/blob/main/Plots/Actual%20and%20predicted%20Churn.png)
+
+
+
+
+## Business Insights & Recommendation :
+
+### Insights : 
+  - **High Churn in High Usage Customers:**
+    > Customers with high day charges and frequent service calls are at a higher risk of churn, indicating dissatisfaction potentially due to billing or service issues.
+    
+  - **Regional Variations:**
+    > Certain states with higher churn rates may require localized customer retention strategies.
+    
+  - **International Plan Sensitivity:**
+    >Customers with international plans are more likely to churn, suggesting a need to reevaluate the pricing or quality of international services.
+
+###  Recommendation :  
+
+   - **Improve Customer Service:**
+     >Focus on reducing the number of customer service calls by enhancing first-call resolution and proactively addressing common issues.
+   
+   - **Reassess International Plan Offerings:**
+     >Consider revising international plans to make them more competitive and aligned with customer expectations.
+
+   - **Targeted Retention Strategies:**
+      > Use the model's predictions to identify high-risk customers and implement targeted retention campaigns, such as personalized offers or discounts for heavy day-time users.
+
+The project successfully identified key drivers of customer churn and built a predictive model with strong performance metrics using LightGBM Model. The insights derived from the data and the model can be leveraged to implement effective churn reduction strategies, potentially leading to significant cost savings and improved customer satisfaction created using Tableau Public.
 
 
