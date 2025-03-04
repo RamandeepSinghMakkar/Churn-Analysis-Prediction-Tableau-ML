@@ -18,10 +18,11 @@ This project was created by   **Ramandeep Singh Makkar** [<img align="center" sr
 ## Overview
 Customer churn is a critical issue for businesses, and analyzing churn patterns helps in developing retention strategies. This project consists of two key parts:
 
-1️⃣ Churn Analysis : Utilizing Tableau dashboards to explore customer behavior, identify key factors contributing to churn, and visualize trends that impact customer retention. Tableau Public Link .
+1️⃣ Churn Analysis : Utilizing Tableau dashboards to explore customer behavior, identify key factors contributing to churn, and visualize trends that impact customer retention. 🔗 **[View Tableau Dashboard](https://public.tableau.com/views/ChurnAnalysis_17410739474400/ChurnAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**  
 ![Churn Analysis](https://github.com/RamandeepSinghMakkar/Churn-Analysis-Prediction-Tableau-ML/blob/main/Plots/Churn%20Analysis.png)
 
 2️⃣ Churn Prediction : Implementing three Machine Learning Classification models (Logistic Regression, Random Forest, KNN) to classify customers as potential churners, predict churn probability, and evaluate model accuracy using real customer data. Logistic Regression performed the best with an accuracy of 89.18%.
+🔗 **[View Tableau Dashboard](https://public.tableau.com/views/ChurnPredictionAnalysis_17410735985500/PREDICTIVEANALYTICS?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**  
 ![Churn Prediction](https://github.com/RamandeepSinghMakkar/Churn-Analysis-Prediction-Tableau-ML/blob/main/Plots/churn%20prediction.png)
 
 
